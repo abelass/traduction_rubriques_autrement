@@ -1,20 +1,4 @@
 <?php
-function trad_rub_header_prive($flux) {
-
-	$flux .= '<link rel="stylesheet" href="' . find_in_path('css/trad_rub_styles.css') . '" type="text/css" media="all" />';
-$flux .='<!-- Example script -->
-<script type="text/javascript">
-	$(document).ready( function() {
-		$(".avis_source").click( function() {
-			javascript:alert("'._T('tra:avis_rubrique_source').'");
-		});
-	});
-</script>
-';
-	return $flux;
-
-}
-
 /*Ajoute la langue de traduction dans le chargement du formulaire edition_rubrique*/
 function trad_rub_formulaire_charger($flux) {
 	$form = $flux['args']['form'];
@@ -75,4 +59,4 @@ function trad_rub_recuperer_fond($flux) {
 
 	return $flux;
 }
-?>
+
