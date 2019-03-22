@@ -11,10 +11,6 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// A
 	'ajouter_traduction' => 'Übersetzung hinzufügen',
-	'avis_rubrique_source' => 'Sie müssen zuerst die darunterliegenden Rubriken übersetzen', # MODIF
-
-	// R
-	'rubrique_reference' => '(Referenzrubrik)',
 
 	// T
 	'trad_delier_rubrique' => 'Ne plus lier cette rubrique à ces traductions' # Diese Rubrik von den aktuellen Übersetzungen lösen

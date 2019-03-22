@@ -11,7 +11,4 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// A
 	'ajouter_traduction' => 'Itzulpen bat gehitu',
-
-	// R
-	'rubrique_reference' => '(Erreferentziazko atala)'
 );

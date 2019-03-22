@@ -11,10 +11,6 @@ $GLOBALS[$GLOBALS['idx_lang']] = array(
 
 	// A
 	'ajouter_traduction' => 'Pridať preklad',
-	'avis_rubrique_source' => 'Najprv musíte preložiť všetky nadradené rubriky',
-
-	// R
-	'rubrique_reference' => '(referenčná rubrika)',
 
 	// T
 	'trad_delier_rubrique' => 'Túto rubriku neprepájať s takými prekladmi'
