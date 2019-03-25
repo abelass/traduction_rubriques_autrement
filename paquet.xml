@@ -15,5 +15,4 @@
 
 	<necessite nom="secteur_langue" compatibilite="[1.0.0;]" />
 
-	<utilise nom="taa" compatibilite="[1.4.2;[" />
 </paquet>
